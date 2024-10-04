@@ -1,0 +1,34 @@
+{
+  "santos": [
+    {
+      "id": "1",
+      "name": "Seiya",
+      "constellation": "Pegaso"
+    },
+    {
+      "id": "2",
+      "name": "Shiryu",
+      "constellation": "Dragon"
+    },
+    {
+      "id": "3",
+      "name": "Shun",
+      "constellation": "Andromeda"
+    },
+    {
+      "id": "4",
+      "name": "Ikki",
+      "constellation": "Fenix"
+    },
+    {
+      "id": "5",
+      "name": "Hyoga",
+      "constellation": "Cisne"
+    },
+    {
+      "id": "b3f2bf8d-d706-40fd-9ea1-ecfe38be8736",
+      "name": "Javi",
+      "constellation": "Cancer"
+    }
+  ]
+}
